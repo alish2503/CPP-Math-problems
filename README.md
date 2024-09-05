@@ -1,2 +1,2 @@
-main.cpp:
+main.cpp://
 Р
